@@ -33,4 +33,4 @@ Technologies Used : Python, Pandas & NumPy, Scikit-learn, Matplotlib & Seaborn, 
                    Model performance comparison bar chart
 Key Insights : Moving averages helped identify short-term trend direction. Stock returns showed volatility clustering.
 
-Decision Tree performed better in capturing non-linear price movement patterns compared to SVM and KNN.
+SVM performed better in capturing non-linear price movement patterns compared to Decision Tree and KNN.
